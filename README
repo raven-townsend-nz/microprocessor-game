@@ -1,8 +1,8 @@
-- The Alphabet Game -
-Coded by Raven Townsend and Ben Remacha for ENCE260
-12/10/2020
+# The Alphabet Game
 
-To run the game:
+This repo contains C code for a game run on a microprocessor for a second year computer systems course.
+
+## To run the game:
 
 1. Open the group-434 directory in a terminal window.
 2. Connect two UCFunkits to your machine.
@@ -10,7 +10,7 @@ To run the game:
 4. When ready, press button 1 (on the west side of the micro-controller).
 5. Once both players press button 1, the game will start.
 
-How to play:
+## How to play:
 
 The objective of this game is for two people to simply count through the alphabet
 and be the first person to land on the letter Z. You can increase by up
