@@ -2,6 +2,10 @@
 
 This repo contains C code for a game run on a microprocessor for a second year computer systems course.
 
+## Contributors
+- Raven Townsend
+- Anonymous
+
 ## To run the game:
 
 1. Open the group-434 directory in a terminal window.
